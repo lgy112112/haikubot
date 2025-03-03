@@ -1,2 +1,6 @@
 dashscope_api.py
 *.m4s
+/haikubot
+/dist
+/__pycache__
+/haikubot.egg-info
